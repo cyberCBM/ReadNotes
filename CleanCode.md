@@ -14,3 +14,11 @@ it would be unprofessional (never mind criminals)for the doctor to comply with t
 ###	Only way to go fast ---> is to keep the code as clean as possible at all times.
 
 ##	What is clean code
+ -	Elegant
+ -	Readable
+ -	Easy to Enhance  
+ -	Well crafted
+ -	No Duplication
+ -	Testable 
+ -	Expressive 
+ -	
